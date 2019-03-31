@@ -6,7 +6,9 @@ This is a pytorch implementation of [LCASA-Net: A Light-weight Context-Aware Sel
 
 
 ## [ISBI 2017](https://challenge.kitware.com/#challenges) test results      
-![1](results.jpg)
+<div style="color:#0000FF" align="left">
+<img src="results.jpg" width="800"/> 
+</div>
 
 ## Comparison 
 **Part of the results are from [ISBI 2016 and ISBI 2017](https://challenge.kitware.com/#challenges) DATASETS.**
